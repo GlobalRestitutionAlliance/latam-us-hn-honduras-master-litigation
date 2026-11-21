@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+HN-BAN-01,Banking and Sanctions Compliance,2009 coup and political instability (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HN-BAN-02,Banking and Sanctions Compliance,Banana republic era corporate influence (historical public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HN-BAN-03,Banking and Sanctions Compliance,Migration drivers and human rights concerns,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HN-BAN-04,Banking and Sanctions Compliance,2009 coup and political instability (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+HN-BAN-05,Banking and Sanctions Compliance,Banana republic era corporate influence (historical public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

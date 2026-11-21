@@ -1,0 +1,39 @@
+# Honduras - Defense Security and Law Enforcement Crosswalk Dashboard
+
+**Jurisdiction:** US-HN Honduras  
+**Sector:** Defense Security and Law Enforcement  
+**Generated:** 2026-11-21
+
+## Anchors
+- 2009 coup and political instability (public record)
+- Banana republic era corporate influence (historical public record)
+- Migration drivers and human rights concerns
+
+## Matrix
+| ID | Anchor | Evidence | Status |
+|---|---|---|---|
+| HN-DEF-01 | 2009 coup and political instability (public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| HN-DEF-02 | Banana republic era corporate influence (historical public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| HN-DEF-03 | Migration drivers and human rights concerns | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| HN-DEF-04 | 2009 coup and political instability (public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| HN-DEF-05 | Banana republic era corporate influence (historical public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+
+## Guardrail
+No fabricated citations or docket numbers. Primary-source verification required before filing use.
+
+## Verified Source Citations (PENDING_LEGAL_REVIEW)
+
+Rule: No citation marked VERIFIED without local hashed source artifact and counsel sign-off.
+
+- HN-CIT-0001: IACHR :: Country Reports | https://www.oas.org/en/iachr/reports/country.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_01_IACHR_-_Situation_of_Human_Rights_in_Honduras_2024_browser.html` | sha256=`078b4f22c243df69...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0002: ICJ - Border and Transborder Armed Actions (Nicaragua v. Honduras) - related regional context | https://www.icj-cij.org/cases | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_02_ICJ_-_Border_and_Transborder_Armed_Actions_Nicaragua_v._Honduras_-_related_regional_context.html` | sha256=`c66ffe4b81a51b59...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0003: UN Digital Library - Search | https://digitallibrary.un.org/search | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_03_UN_Digital_Library_-_Search.html` | sha256=`e3b0c44298fc1c14...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0004: Countries | OHCHR | https://www.ohchr.org/en/countries | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_04_UN_OHCHR_-_Country_Pages_browser.html` | sha256=`49662d4dbf47bb6d...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0005: UN Treaty Body Database | https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_05_UN_Treaty_Body_Database.html` | sha256=`48ee9492a9af8158...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0006: Universal Periodic Review | OHCHR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_06_UN_Human_Rights_Council_-_Universal_Periodic_Review_browser.html` | sha256=`cfdbc1bead5f916a...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0007: Annual Reports | https://www.oas.org/en/iachr/reports/ia.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_08_IACHR_-_Annual_Reports_browser.html` | sha256=`36ce54303131c67a...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0008: US State Department - Country Reports on Human Rights Practices | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_09_US_State_Department_-_Country_Reports_on_Human_Rights_Practices.html` | sha256=`1247df151df829bd...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0009: US State Department - Office of the Historian (FRUS) | https://history.state.gov/historicaldocuments | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_10_US_State_Department_-_Office_of_the_Historian_FRUS.html` | sha256=`c948fdff783f2e5f...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0010: NARA - Foreign Affairs Research | https://www.archives.gov/research/foreign-policy | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_11_NARA_-_Foreign_Affairs_Research.html` | sha256=`c4cda55cb948dfd6...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0011: CIA.gov 404 | https://www.cia.gov/reading-room/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_12_CIA_FOIA_Electronic_Reading_Room_browser.html` | sha256=`237c2cfe65f25745...` | status=PENDING_LEGAL_REVIEW
+- HN-CIT-0012: Library of Congress - Research Guides / Country Studies | https://guides.loc.gov/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/HN_13_Library_of_Congress_-_Research_Guides_Country_Studies.html` | sha256=`0f1405753ed93b20...` | status=PENDING_LEGAL_REVIEW

@@ -1,0 +1,27 @@
+{
+  "url": "https://guides.loc.gov/",
+  "final_url": "https://guides.loc.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 28105,
+  "sha256": "0f1405753ed93b2049b06ab5f7897c4c7643faea7c49982c42c2ba21ba2c2f3c",
+  "captured_at": "2026-11-21T18:28:49.748407Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Honduras",
+  "iso": "HN",
+  "title": "Library of Congress - Research Guides / Country Studies",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:31:29 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-backend-server": "libguides-us-1.springyaws.com",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "upgrade-insecure-requests",
+    "strict-transport-security": "max-age=31536000; preload",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a5e1c58a5d138b1f-MIA"
+  }
+}
