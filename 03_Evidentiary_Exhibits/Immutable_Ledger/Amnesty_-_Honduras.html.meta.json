@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/honduras/",
+  "final_url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/honduras/",
+  "title": "Amnesty - Honduras",
+  "fetched_at": "2026-11-23T14:28:20.808744Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 100739,
+  "sha256": "f8ad07a8f22faaaf4115635825a6a8f1c0eb0fe3b4e763b4bc815a19475b17af",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

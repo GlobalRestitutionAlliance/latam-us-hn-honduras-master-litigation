@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/honduras",
+  "final_url": "https://www.hrw.org/americas/honduras",
+  "title": "HRW - Honduras",
+  "fetched_at": "2026-11-23T14:28:19.934486Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 189732,
+  "sha256": "5186020c0a32c07bbe11ccec9c1371be19f4a94fcc5c54a82156f5f320ff9a5d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
